@@ -14,5 +14,8 @@ CHIP Not {
 
     PARTS:
     // Put your code here:
-    Nand(a=in, b=in, out=out);
+    
+    Nand (a=in , b=in , out=out);
 }
+
+// Circurt diagarm : https://docs.google.com/drawings/d/1XbQIpL8Y1XxzfKdPSp-dC-Eunxz2qY_Xda1CLHjDAc4/edit?usp=sharing

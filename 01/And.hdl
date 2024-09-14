@@ -15,4 +15,9 @@ CHIP And {
 
     PARTS:
     // Put your code here:
+
+    Nand (a=a , b=b , out=nab);
+    Not (in=nab , out=out);
 }
+
+// Circurt diagarm : https://docs.google.com/drawings/d/1Ur6TUpd47DR7hOmUBxe9CKsgeRJTM14yKlUqL3MO98c/edit?usp=sharing

@@ -15,4 +15,10 @@ CHIP Or {
 
     PARTS:
     // Put your code here:
+
+    Not (in=a , out=na);
+    Not (in=b , out=nb);
+    Nand (a=na , b=nb , out=out);
 }
+
+// Circurt diagarm : https://docs.google.com/drawings/d/1TN1iM0jSBqisyAj5SpOCs5EOYi97TaHWumHymUgMO_E/edit?usp=sharing

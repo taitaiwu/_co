@@ -15,4 +15,13 @@ CHIP Mux {
 
     PARTS:
     // Put your code here:
+
+    Not (in=sel , out=nsel);
+
+    And (a=a , b=nsel , out=n1);
+    And (a=b , b=sel , out=n2);
+
+    Or (a=n1 , b=n2 , out=out);
 }
+
+// Circurt diagarm : https://docs.google.com/drawings/d/14YB7imqE76AZgOHm-RQaEc2SeeDD3Wu5JkGLkLjILYA/edit
