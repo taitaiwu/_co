@@ -14,4 +14,16 @@ CHIP Or8Way {
 
     PARTS:
     // Put your code here:
+
+    Or (a=in[0] , b=in[1] , out=n1);
+    Or (a=in[2] , b=in[3] , out=n2);
+    Or (a=in[4] , b=in[5] , out=n3);
+    Or (a=in[6] , b=in[7] , out=n4);
+
+    Or (a=n1 , b=n2 , out=nn1);
+    Or (a=n3 , b=n4 , out=nn2);
+
+    Or (a=nn1 , b=nn2 , out=out);
 }
+
+// Circuit diagarm :　https://docs.google.com/drawings/d/1pEYye5bO0Bz_PxtoiwDPG8IJdwRTfiZ50lUJLvY_qq8/edit
