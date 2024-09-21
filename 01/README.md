@@ -15,7 +15,7 @@
 * [From Nand to Tetris](https://www.nand2tetris.org/)
 * [CircuitVerse](https://circuitverse.org/)
 
-## 作業電路圖
+## 作業詳情
 * ### [NOT](Not.hdl)
   ![](NOT.jpg)
   
