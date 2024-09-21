@@ -16,5 +16,47 @@
 * [CircuitVerse](https://circuitverse.org/)
 
 ## 作業電路圖
-* ### NOT  
+* ### [NOT](Not.hdl)
+  ![](NOT.jpg)
+  
+* ### [AND](AND.hdl)  
+  ![](AND.jpg)
 
+* ### [OR](OR.hdl)  
+  ![](OR.jpg)
+
+* ### [XOR](XOR.hdl)  
+  ![](XOR.jpg)
+
+* ### [Mux](Mux.hdl)  
+  ![](Mux.jpg)
+
+* ### [DMux](DMux.hdl)
+  ![](DMux.jpg)
+
+* ### [NOT16](NOT16.hdl)  
+  ![](NOT16.jpg)
+
+* ### [AND16](AND16.hdl)
+  ![](AND16.jpg)
+  
+* ### [OR16](OR16.hdl)  
+  ![](OR16.jpg)
+
+* ### [Mux16](Mux16.hdl)  
+  ![](Mux16.jpg)
+
+* ### [OR8Way](OR8Way.hdl)  
+  ![](OR8Way.jpg)
+
+* ### [Mux4Way16](Mux4Way16.hdl)
+  ![](Mux4Way16.jpg)
+
+* ### [Mux8Way16](Mux8Way16.hdl)
+  ![](Mux8Way16_.jpg)
+
+* ### [DMux4Way](DMux4Way.hdl)
+  ![](DMux4Way.jpg)
+
+* ### [DMux8Way](DMux8Way.hdl)
+  ![](DMux8Way.jpg)
