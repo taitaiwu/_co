@@ -6,7 +6,7 @@
 /**
  * 1-bit register:
  * If load[t] == 1 then out[t+1] = in[t]
- *                 else out does not change (out[t+1] = out[t])
+ * else out does not change (out[t+1] = out[t])
  */
 
 CHIP Bit {
@@ -15,4 +15,8 @@ CHIP Bit {
 
     PARTS:
     // Put your code here:
+    Mux (a=n2 , b=in , sel=load , out=n1);
+    DFF (in=n1 , out=out, out=n2);
 }
+
+// Circuit diagram : https://docs.google.com/drawings/d/1O_PYPfE5d3O-4yFZRwuIqboyHzLMTIU-0w_u--iUQjQ/edit
