@@ -15,10 +15,10 @@ x | y | | x' | y' | | (xy)' | x'+y'
 
 ## 電路圖
 * (xy)'  
-![alt text](image.png)
+![alt text](prove_01.jpg)
   
 * x'+y'  
-![alt text](image-1.png)
+![alt text](prove_02.jpg)
 
 ---
 **備註 :** 本作業採用markdown檔案完成，圖片由google繪圖繪製(OR閘圖片來源為[維基百科](https://zh.wikipedia.org/zh-tw/%E6%88%96%E9%97%A8))
