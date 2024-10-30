@@ -15,7 +15,6 @@
 
 ## 參考資料
 * [From Nand to Tetris](https://www.nand2tetris.org/)
-* [CircuitVerse](https://circuitverse.org/)
 * [Duck University](https://people.duke.edu/~nts9/)
 
 ## 作業詳情
