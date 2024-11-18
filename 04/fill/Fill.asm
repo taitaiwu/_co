@@ -12,3 +12,23 @@
 // the screen should remain fully clear as long as no key is pressed.
 
 // Put your code here.
+(forever)
+@SCREEN 
+D=M
+@arr
+M=D
+
+@8192
+D=M
+@n
+M=D
+
+@i
+M=0
+
+@i
+D=M
+@n
+D=D-M
+@ENDLOOP
+D;JEQ

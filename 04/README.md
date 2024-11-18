@@ -15,4 +15,5 @@
 * [Mult.asm](https://github.com/ccc112a/cpu2os/blob/master/03-nand2tetris/04/mult/Mult.asm)
 
 ## 作業詳情
-* ### [mult.asm](/mult/mult.asm)
+* ### [mult.asm](/04/mult/mult.asm)
+    * [C語言檔案](/04/mult/mult.c)
