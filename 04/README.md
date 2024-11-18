@@ -8,7 +8,7 @@
 
 ## 關於作業
 * 作業獨立完成
-* 先自己寫出再參考解答
+* 先自己用C語言，再寫asm程式，有bug時再參考解答
 
 ## 參考資料
 * [From Nand to Tetris](https://www.nand2tetris.org/)
