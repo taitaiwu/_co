@@ -8,7 +8,7 @@
 
 ## 關於作業
 * **mult.asm** : 先自己用C語言，再寫asm程式，有bug時再參考解答
-* **Fill.asm** : 參考老師的的C語言，在自己寫一次，最後透過自己的C語言寫出asm程式，有bug時再參考解答
+* **Fill.asm** : 參考老師的的C語言，在自己寫一次，最後透過自己的C語言寫出asm程式，有不會之處再參考解答
 
 ## 參考資料
 * [From Nand to Tetris](https://www.nand2tetris.org/)
