@@ -17,3 +17,4 @@
 ## 作業詳情
 * ### [mult.asm](/04/mult/mult.asm)
     * [C語言檔案](/04/mult/mult.c)
+    * [C語言檔案(goto)](/04/mult/multGoto.c)
