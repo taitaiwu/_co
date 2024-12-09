@@ -5,7 +5,7 @@
 
 ## 作業內容
 * **第七週(10/24)作業 :** Bit、Register、RAM8、RAM64
-* **第九週(11/06)作業 :** 
+* **第九週(11/07)作業 :** RAM512、RAM4K、RAM16K、PC
 > 註:中途經過第八週(10/31)颱風假
 
 ## 關於作業
@@ -29,3 +29,15 @@
 
 * ### [RAM64](a/RAM64.hdl)
     ![](a/RAM64.jpg)
+
+* ### [RAM512](b/RAM512.hdl)
+    ![](b/RAM512.jpg)
+
+* ### [RAM4K](b/RAM4K.hdl)
+    ![](b/RAM4K.jpg)
+
+* ### [RAM16K](b/RAM16K.hdl)
+    ![](b/RAM16K.jpg)
+
+* ### [PC](a/PC.hdl)
+    ![](a/PC.jpg)
