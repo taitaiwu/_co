@@ -32,7 +32,7 @@ M=0
     //goto loop;
     @loop
 
-0;JUP 
+0;JMP 
 
 (exit1)
     0;JMP
